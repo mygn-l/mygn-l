@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with an Arena multiplayer game.
 - 💬 Ask me about mathematics.
 - 📫 How to reach me: Email.
-- 😄 Pronouns: He/him.
 - ⚡ Fun fact: I love meteorology.
 
 [My website](https://ming-gros-fou.win) | [LinkedIn](https://www.linkedin.com/in/ming-rui-fu-lin/)

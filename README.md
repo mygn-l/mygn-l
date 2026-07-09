@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in research at Concordia.
 - 🌱 I’m currently learning category theory and Lean.
-- 👯 I’m looking to collaborate on interdisciplinary innovations.
+- 👯 I’m looking to collaborate on interdisciplinary projects.
 - 🤔 I’m looking for help with an Arena multiplayer game.
 - 💬 Ask me about mathematics.
 - 📫 How to reach me: Email.

@@ -1,7 +1,7 @@
 ## Hello, I'm Ming
 
 - 🔭 I’m currently working in research at Concordia.
-- 🌱 I’m currently learning category theory and robotics.
+- 🌱 I’m currently learning algorithmic information theory, type theory, and category theory.
 - 👯 I’m looking to collaborate on interdisciplinary projects.
 - 🤔 I’m looking for help with an Arena multiplayer game.
 - 💬 Ask me about mathematics.

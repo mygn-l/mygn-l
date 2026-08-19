@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in research at Concordia.
 - 🌱 I’m currently learning algorithmic information theory and category theory.
 - 👯 I’m looking to collaborate on interdisciplinary projects.
-- 🤔 I’m looking for help with an Arena multiplayer game.
+- 🤔 I’m looking for help with a futuristic assistant.
 - 💬 Ask me about mathematics.
 - 📫 How to reach me: Email.
 - ⚡ Fun fact: I love meteorology.

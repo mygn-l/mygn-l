@@ -8,6 +8,14 @@
 
 ## Skills
 
-**Programming** (Java, Python, JavaScript, C, Lean 4), **Web** (Angular, Spring, Express), **Cloud** (GCP, AWS, Docker), **Databases** (MongoDB, SQL, Redis*), **Linux**, **AI** (PyTorch), **Numerical** (NumPy, JAX), **Github**, **Algorithm, Data Structures**, **Mathematics** (tensor calculus, abstract algebra, real analysis, general topology, ODE/PDE, information theory, probability, set theory, mathematical logic, category theory), **Physics** (general relativity).
+- **Programming** (Java, Python, JavaScript, C, C++, Lean 4)
+- **Web Development** (Angular, Spring, Express)
+- **Cloud** (GCP, AWS, Docker)
+- **Databases** (MongoDB, PostgresSQL, Redis*)
+- **Linux**
+- **AI** (PyTorch, JAX)
+- **Algorithm, Data Structures**
+- **Mathematics** (tensor calculus, topology, information theory, category theory)
+- **Physics** (general relativity)
 
 ### Check out my projects below!

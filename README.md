@@ -8,7 +8,7 @@
 
 ## Skills
 
-- **Programming** (Java, Python, JavaScript, C, C++, Lean 4)
+- **Programming** (Java, Python, JavaScript, C, Lean 4)
 - **Web Development** (Angular, Spring, Express)
 - **Cloud** (GCP, AWS, Docker)
 - **Databases** (MongoDB, PostgresSQL, Redis*)

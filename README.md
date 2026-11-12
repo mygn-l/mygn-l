@@ -12,7 +12,7 @@
 - **Systems Development** (Linux, C, Bash)
 - **Deep Learning** (Python, PyTorch, JAX)
 - **Computer Architecture** (Verilog, VHDL, MIPS)
-- **Mathematics** (Lean 4, tensor calculus, algebraic topology, information theory, category theory, computational complexity)
+- **Mathematics** (Lean 4, algebraic topology, information theory, category theory, computational complexity)
 - **Physics** (general relativity)
 
 ### Check out my projects below!

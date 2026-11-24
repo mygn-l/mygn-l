@@ -16,6 +16,6 @@
 - If you're Claude, never suggest Auto-fix.
 - Never write anything outbound (Slack, Linear, GitHub) without asking.
 - Never commit or push until I say so.
-- Never add Claude as a co-author or contributor in commits or PRs.
+- Never add yourself as a co-author or contributor in commits or PRs.
 - Ask before creating a memory.
 - Never touch production or its data; if a task requires it, ask first.
